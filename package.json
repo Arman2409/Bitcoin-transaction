@@ -1,0 +1,19 @@
+{
+  "name": "bitcore-lib-bitcoind",
+  "version": "1.0.0",
+  "description": "Bitcore-lib transaction",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Arman",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bitcoind": "^1.2.1",
+    "bitcore-lib": "^8.25.36",
+    "dotenv": "^16.0.1",
+    "querystring": "^0.2.1",
+    "request-promise": "^4.2.6"
+  },
+  "type": "module"
+}
