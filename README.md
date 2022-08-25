@@ -1,6 +1,6 @@
 # Bitcoin Transaction
 
-Transaction is handled by Bitcore-lib module of Node.js.The sochain.com service is used to get unsped txos and
+Transaction is handled by bitcore-lib module of Node.js.The sochain.com service is used to get unsped txos and
 also to send the transaction.
 
 ## Running the project
